@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Sarawit Kraukham
-### now I am interested about Game development on Unity🎮 . And try to learning with it. 📖🔍
+### Now I am interested about Game development on Unity🎮, And try to learning with it. 📖🔍
 
 ### I'm currently studying at King Mongkut's University of Technology Thonburi (KMUTT). 🐜🐜🐜
 
