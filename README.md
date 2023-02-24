@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Sarawit Kraukham
+## now I am interested about Game development on Unity. And try to learning with it.
+
+## I'm currently studying at Kmutt
 
 <!--
 **BomScoob12/BomScoob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
