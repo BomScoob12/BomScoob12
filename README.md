@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sarawit Kraukham
 ### now I am interested about Game development on Unity🎮 . And try to learning with it. 📖🔍
 
-### I'm currently studying at King Mongkut's University of Technology Thonburi(KMUTT). 🐜🐜🐜
+### I'm currently studying at King Mongkut's University of Technology Thonburi (KMUTT). 🐜🐜🐜
 
 <!--
 **BomScoob12/BomScoob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
