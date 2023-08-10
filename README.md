@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Sarawit Kraukham
-### I am interested in Java development💻 And Backend development. Now I'm trying to learn it. 📖🔍
 
 ### I'm currently studying at King Mongkut's University of Technology Thonburi (KMUTT). 🐜🐜🐜
 
