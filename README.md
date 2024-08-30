@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BomScoob12" alt="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=BomScoob12&theme=dark" alt="https://git.io/streak-stats">
 </p>
 <!--
 **BomScoob12/BomScoob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
