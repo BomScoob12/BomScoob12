@@ -3,7 +3,7 @@
 ### I'm currently studying at King Mongkut's University of Technology Thonburi (KMUTT). 🐜🐜🐜
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+%20+my+name+is+Bom!;I'm+a+passionate+full-stack+developer!;but+I'm+not+good+at+CSS;I'm+interested+in+Software+engineering!;Coding+and+gaming+are+my+favorite+hobbies!&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+%20+my+name+is+Bom!;I'm+a+passionate+full-stack+developer!;but+I'm+not+good+at+CSS;I'm+interested+in+Software+engineering!;Coding+and+gaming+are+my+favorite+hobbies!&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="My introduction part">
 </p>
 
 <p align="center">
